@@ -1,0 +1,92 @@
+.carousel-item {
+    height: 25rem;
+    background: #777;
+    color: white;
+    position: relative;
+}
+
+#container-1 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    right: 0;
+    padding-bottom: 50PX;
+
+}
+
+#container-2 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    right: 0;
+    padding-bottom: 50PX;
+    text-align: center;
+
+}
+
+#container-3 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+    right: 0;
+    padding-bottom: 50PX;
+    text-align: right;
+
+}
+
+.card-container {
+    /* height: 20rem; */
+    height: 100px;
+    width: 100px;
+    background: #777;
+    border-radius: 70%;
+    /* margin: 50px; */
+    margin-bottom: 0;
+    margin-top: 20px;
+    margin-left: 100px;
+
+
+
+
+}
+
+.card {
+    border: none;
+
+}
+
+.image {
+    height: 250px;
+    width: 300px;
+    background-color: rgba(119, 119, 119, 0.308);
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.image-details {
+    margin-top: 100px;
+    text-align: right;
+}
+
+.container {
+    justify-content: space-between;
+    margin-top: 80px;
+
+
+}
+
+footer {
+    height: 150px;
+}
+
+hr {
+    color: rgba(119, 119, 119, 0.822);
+}
+
+a {
+    font-size: 0.8em;
+}
